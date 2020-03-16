@@ -7,7 +7,7 @@
 <p>
 This repository contains solutions to the problems provided on HackerEarth in Scala/Shell Scripting. The code that I wrote may not be the best possible way to solve the problem. I encourage everyone to provide a better solution by creating a pull request or can write an email to me (soumen_saha@outlook.com). This repository is for practising and helping others who are looking for help.
 
-You can find HackerEarth programming tutorials and practice problems <a href="https://www.hackerearth.com/practice/">here</a>.
+You can find HackerEarth programming tutorials and practice problems <a href="https://www.hackerearth.com/practice/">here</a>..
 </p>
 
 <h1>Contents</h1>
