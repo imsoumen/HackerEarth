@@ -11,16 +11,20 @@ You can find HackerEarth programming tutorials and practice problems <a href="ht
 </p>
 
 <h1>Contents</h1>
-
-<ul class="a">
-  <li>Basic Programming</li>
-  <ul class="b">
-        <li>Input/Output</li>
-        <ul class="c">
-        <li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/">Seating Arrangement</a> --- VERY EASY</li>
-  </ul>
-    </ul>
+<ul style="list-style-type: circle;">
+<li>
+<h4>Basic Programming</h4>
+<ul>
+<li>Input / Output
+<ul>
+<li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/">Seating Arrangement</a>&nbsp;-- VERY EASY</li>
+<li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/">Bricks Game</a> -- VERY EASY</li>
 </ul>
+</li>
+</ul>
+</li>
+</ul>
+
 
 
 
