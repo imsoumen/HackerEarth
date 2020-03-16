@@ -18,7 +18,8 @@ You can find HackerEarth programming tutorials and practice problems <a href="ht
 <li>Input / Output
 <ul>
 <li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/">Seating Arrangement</a>&nbsp;-- VERY EASY</li>
-<li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/">Bricks Game</a> -- VERY EASY</li>
+<li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/">Bricks Game</a> -- EASY</li>
+<li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/">Zoos</a> -- VERY EASY</li>
 </ul>
 </li>
 </ul>
