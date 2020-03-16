@@ -5,7 +5,7 @@
 
 <h1 style="color:Tomato;"><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/">Bricks Game</a></h1>
 
-<h4><b> Difficulty Level: VERY EASY </b></h4>
+<h4><b> Difficulty Level: EASY </b></h4>
 
 <div class="starwars-lab">
 <p><strong>Patlu</strong>&nbsp;and&nbsp;<strong>Motu</strong>&nbsp;works in a building construction, they have to put some number of bricks&nbsp;<strong>N</strong>&nbsp;from one place to another, and started doing their work. They decided , they end up with a fun challenge who will put the last brick.</p>
