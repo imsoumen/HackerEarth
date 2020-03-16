@@ -19,7 +19,7 @@ You can find HackerEarth programming tutorials and practice problems <a href="ht
         <ul class="c">
         <li><a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/">Seating Arrangement</a> --- VERY EASY</li>
   </ul>
-  </ul>
+    </ul>
 </ul>
 
 
